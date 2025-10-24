@@ -1,6 +1,6 @@
 # Consignes générales
 
-**AVANT TOUTE CHOSE**: N'hésitez pas avant d'accueillir ou de promouvoir une Algorave ! Et surtout, amusez-vous. Les Algoraves ne sont pas une marque protégées ou une franchise, vous êtes libres de faire tout ce que vous souhaitez avec. Ceci étant dit, c'est aussi une communauté, et il y a donc des consignes communautaires pour harmoniser les évènements.
+**AVANT TOUTE CHOSE**: N'hésitez pas avant d'accueillir ou de promouvoir une Algorave ! Et surtout, amusez-vous. Les Algoraves ne sont pas une marque protégée ou une franchise, vous êtes libres de faire tout ce que vous souhaitez avec. Ceci étant dit, c'est aussi une communauté, et il y a donc des consignes communautaires pour harmoniser les évènements.
 
 Nous recommandons une rangée complète de caissons ainsi que des projecteurs haut contrastes dans une petite pièce sombre, préférablement avec de la fumée. Un concert avec des places assises, c'est bien, mais ce n'est pas une Algorave.
 
