@@ -7,3 +7,4 @@
 * [한국어 / Korean](README_ko.md)
 * [Português / Portuguese](README_ptBR.md)
 * [Türkçe / Turkish](README_tr.md)
+* [Français / French](README_fr.md)
