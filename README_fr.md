@@ -8,7 +8,7 @@ Nous recommandons une rangée complète de caissons ainsi que des projecteurs ha
 La plupart des performances devraient inclure une génération algorithmique ou codée des visuels et de la musique, dans un sens qui rend cet algorithme ou ce code visible. Il n'est pas nécessaire que ce soit fait en live, tout le monde n'est pas à l'aise pour projeter son écran en concert. Au delà de ces considérations, soyez libre d'innover et de mélanger nos conseils avec d'autres approches artistiques, pour le fun et dans l'intérêt de la diversité artistique.
 
 **Craignez les institutions** -
-L'Algorarave fait partie de la culture de la free party, donc prenez garde aux alignements trop forts à des sponsors ou à des institutions. C'est totalement normal de promouvoir vos propres évènements, mais cela ne devrait pas aller trop loin. Utilisez les Algoraves pour vous soutenir entre vous. 
+L'Algorarave fait partie de la culture de la free party, donc prenez garde aux alignements trop forts à des sponsors ou à des institutions. C'est totalement normal de promouvoir vos propres évènements, mais cela ne devrait pas aller trop loin. Servez-vous des Algoraves pour vous soutenir entre vous. 
 
 **Détruisez les hiérarchies** -
 Les gros noms ("Headliners") sont généralements mal vus. Les Algoraves ne sont donc pas tout le temps des "raves" à proprement dites, nous préférons à cela garder un esprit d'artistes quasi-anonymes jouant pour unifier une audience.
