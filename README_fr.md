@@ -25,7 +25,7 @@ Les Algoraves devraient être des safe spaces. Nous conseillons de penser à un 
 **Construire des communautés locales et en ligne** -
 S'il y a déjà des Algoraves près de chez vous, prenez contact et impliquez vous ! Vous pouvez même prévoir d'en organiser une, tout en participant à une autre. C'est plutôt fun.  
 
-Il existe une communauté active d'artiste et d'organisateurs en ligne qui seraient ravis de vous aider; Ils peuvent aussi vous fournir des ressources sur l'identité visuelle de votre évènement ou du matériel promotionnel. Vous pourrez les trouver ici:
+Il existe une communauté active d'artistes et d'organisateurs en ligne qui seraient ravis de vous aider ; Ils peuvent aussi vous fournir des ressources sur l'identité visuelle de votre évènement ou du matériel promotionnel. Vous pourrez les trouver ici:
 
 * Le channel #algorave du Discord de live coding (TOPLAP): https://discord.gg/D4Enr5u7Rp
 * Pour des discussions plus lentes, il existe aussi un forum TOPLAP: https://forum.toplap.org/
